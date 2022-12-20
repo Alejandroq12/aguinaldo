@@ -1,0 +1,173 @@
+.calculate-aguinaldo {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .calculate-aguinaldo__title {
+    text-align: center;
+    background-color: #00b8d4;
+    color: white;
+    padding: 20px;
+    margin: 0;
+  }
+  
+  .calculate-aguinaldo__form {
+    max-width: 500px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .calculate-aguinaldo__label {
+    display: block;
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  .calculate-aguinaldo__input {
+    width: 50%;
+    height: 30px;
+    padding: 0 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin: 10px 0;
+  }
+  
+  .calculate-aguinaldo__button {
+    width: 50%;
+    height: 40px;
+    font-size: 16px;
+    background-color: #00b8d4;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+  }
+  
+  .calculate-aguinaldo__error {
+    color: red;
+    font-size: 14px;
+    margin: 10px 0;
+  }
+  
+  .calculate-aguinaldo__result {
+    text-align: center;
+    font-size: 18px;
+    margin: 20px 0;
+  }
+  
+  /* New style additions */
+  
+  .calculate-aguinaldo__form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .calculate-aguinaldo__form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .calculate-aguinaldo__form-group > * {
+    width: 80%;
+  }
+  
+  .calculate-aguinaldo {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .calculate-aguinaldo__title {
+    text-align: center;
+    background-color: #00b8d4;
+    color: white;
+    padding: 20px;
+    margin: 0;
+  }
+  
+  .calculate-aguinaldo__form {
+    max-width: 500px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .calculate-aguinaldo__label {
+    display: block;
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  .calculate-aguinaldo__input {
+    width: 50%;
+    height: 30px;
+    padding: 0 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin: 10px 0;
+  }
+  
+  .calculate-aguinaldo__button {
+    width: 50%;
+    height: 40px;
+    font-size: 16px;
+    background-color: #00b8d4;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+  }
+  
+  .calculate-aguinaldo__error {
+    color: red;
+    font-size: 14px;
+    margin: 10px 0;
+  }
+  
+  .calculate-aguinaldo__result {
+    text-align: center;
+    font-size: 18px;
+    margin: 20px 0;
+  }
+  
+  /* New style additions */
+  
+  .calculate-aguinaldo__form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .calculate-aguinaldo__form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .calculate-aguinaldo__form-group > * {
+    width: 80%;
+  }
+  
+
+  
+  .calculate-aguinaldo__input[type='number']::-webkit-inner-spin-button,
+  .calculate-aguinaldo__input[type='number']::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  
+  .calculate-aguinaldo__input[type='number']::-webkit-inner-spin-button,
+  .calculate-aguinaldo__input[type='number']::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
