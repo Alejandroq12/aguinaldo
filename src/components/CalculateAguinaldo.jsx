@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./CalculateAguinaldo.css";
+import "../CalculateAguinaldo.css";
 
 
 function CalculateAguinaldo() {

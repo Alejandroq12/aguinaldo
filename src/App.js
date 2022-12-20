@@ -1,6 +1,6 @@
 
 import './App.css';
-import CalculateAguinaldo from './CalculateAguinaldo';
+import CalculateAguinaldo from '../components/CalculateAguinaldo';
 
 function App() {
   return (
