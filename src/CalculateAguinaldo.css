@@ -137,6 +137,21 @@
   }
   
   /* New style additions */
+  .calculate-aguinaldo {
+    min-height: 100%;
+  }
+  
+  .calculate-aguinaldo__footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+  }
   
   .calculate-aguinaldo__form-container {
     display: flex;
